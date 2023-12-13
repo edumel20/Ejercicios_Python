@@ -1,4 +1,4 @@
-![Python Logo](https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg "Python")
+![Python Logo](https://c1.klipartz.com/pngpicture/959/594/sticker-png-python-logo-programming-language-computer-programming-computer-software-tkinter-javascript-python-conference-software-developer.png "Python")
 ___
 # Ejercicios_Python
 
