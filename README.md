@@ -1,5 +1,3 @@
-![Python Logo](https://c1.klipartz.com/pngpicture/959/594/sticker-png-python-logo-programming-language-computer-programming-computer-software-tkinter-javascript-python-conference-software-developer.png "Python")
-___
 # Ejercicios_Python
 
 Este repositorio está dedicado a guardar los ejercicios realizados en lenguaje Python:
